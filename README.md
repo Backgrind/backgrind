@@ -62,16 +62,6 @@ prompts, code, and history never touch Backgrind's servers; the overlay is a thi
 renders and forwards. Only the hosted Grindy models (Pro) send prompts to our backend, and
 `.grindignore` still applies. Details: [Privacy Policy](https://backgrind.com/privacy).
 
-## Pricing
-
-| Plan | Price | What you get |
-| --- | --- | --- |
-| **Free** | $0 | The full overlay with your own Claude Code / Cursor. 1 agent, session-only — nothing saved between launches. |
-| **Plus** | **$9/mo** | The complete local app: workspaces, unlimited parallel agents, voice, customization, and **Live mode** — drive your agents from any browser, end-to-end encrypted. Bring your own CLI. |
-| **Pro** | **$59/mo** | Everything in Plus **+ Grindy**: the hosted **`grindy-1` · `grindy-1-pro`** models (no API key needed) and cloud chat sync. |
-
-Full comparison: [backgrind.com/#pricing](https://backgrind.com/#pricing).
-
 ## Learn more
 
 - [How to run Claude Code while playing a game](https://backgrind.com/blog/run-claude-code-while-gaming)
